@@ -1421,7 +1421,7 @@ Also, verify that the Page does not display a "comments are closed" type message
   <link>https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/canola2/</link>
   <pubDate>Mon, 10 Jan 2011 13:17:54 +0000</pubDate>
   <dc:creator>themedemos</dc:creator>
-  <guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2008/06/canola2.jpg</guid>
+  <guid isPermaLink="false">http://localhost/wp-test-data/contents/canola2.jpg</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
   <excerpt:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec mollis. Quisque convallis libero in sapien pharetra tincidunt. Aliquam elit ante, malesuada id, tempor eu, gravida id, odio. Maecenas suscipit, risus et eleifend imperdiet, nisi orci ullamcorper massa, et adipiscing orci velit quis magna.]]></excerpt:encoded>
@@ -1437,7 +1437,7 @@ Also, verify that the Page does not display a "comments are closed" type message
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2008/06/canola2.jpg</wp:attachment_url>
+  <wp:attachment_url>http://localhost/wp-test-data/contents/canola2.jpg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
     <wp:meta_value><![CDATA[canola]]></wp:meta_value>
@@ -1460,7 +1460,7 @@ Also, verify that the Page does not display a "comments are closed" type message
   <link>https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/dsc20050727_091048_222/</link>
   <pubDate>Mon, 10 Jan 2011 13:20:37 +0000</pubDate>
   <dc:creator>themedemos</dc:creator>
-  <guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2008/06/dsc20050727_091048_222.jpg</guid>
+  <guid isPermaLink="false">http://localhost/wp-test-data/contents/dsc20050727_091048_222.jpg</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1476,7 +1476,7 @@ Also, verify that the Page does not display a "comments are closed" type message
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2008/06/dsc20050727_091048_222.jpg</wp:attachment_url>
+  <wp:attachment_url>http://localhost/wp-test-data/contents/dsc20050727_091048_222.jpg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
     <wp:meta_value><![CDATA[dsc20050727_091048_222]]></wp:meta_value>
@@ -1499,7 +1499,7 @@ Also, verify that the Page does not display a "comments are closed" type message
   <link>https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/dsc20050813_115856_52/</link>
   <pubDate>Mon, 10 Jan 2011 13:20:57 +0000</pubDate>
   <dc:creator>themedemos</dc:creator>
-  <guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2008/06/dsc20050813_115856_52.jpg</guid>
+  <guid isPermaLink="false">http://localhost/wp-test-data/contents/dsc20050813_115856_52.jpg</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1515,7 +1515,7 @@ Also, verify that the Page does not display a "comments are closed" type message
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2008/06/dsc20050813_115856_52.jpg</wp:attachment_url>
+  <wp:attachment_url>http://localhost/wp-test-data/contents/dsc20050813_115856_52.jpg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
     <wp:meta_value><![CDATA[dsc20050813_115856_52]]></wp:meta_value>
@@ -1628,7 +1628,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <link>https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/100_5478/</link>
   <pubDate>Fri, 15 Jul 2011 21:34:50 +0000</pubDate>
   <dc:creator>themedemos</dc:creator>
-  <guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2008/06/100_5478.jpg</guid>
+  <guid isPermaLink="false">http://localhost/wp-test-data/contents/100_5478.jpg</guid>
   <description/>
   <content:encoded><![CDATA[Public domain via https://www.burningwell.org/gallery2/v/Objects/100_5540.JPG.html]]></content:encoded>
   <excerpt:encoded><![CDATA[Bell on wharf in San Francisco]]></excerpt:encoded>
@@ -1644,7 +1644,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2008/06/100_5478.jpg</wp:attachment_url>
+  <wp:attachment_url>http://localhost/wp-test-data/contents/100_5478.jpg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
     <wp:meta_value><![CDATA[Bell on Wharf]]></wp:meta_value>
@@ -1667,7 +1667,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <link>https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/100_5540/</link>
   <pubDate>Fri, 15 Jul 2011 21:35:55 +0000</pubDate>
   <dc:creator>themedemos</dc:creator>
-  <guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2008/06/100_5540.jpg</guid>
+  <guid isPermaLink="false">http://localhost/wp-test-data/contents/100_5540.jpg</guid>
   <description/>
   <content:encoded><![CDATA[Public domain via https://www.burningwell.org/gallery2/v/Objects/100_5478.JPG.html]]></content:encoded>
   <excerpt:encoded><![CDATA[Golden Gate Bridge]]></excerpt:encoded>
@@ -1683,7 +1683,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2008/06/100_5540.jpg</wp:attachment_url>
+  <wp:attachment_url>http://localhost/wp-test-data/contents/100_5540.jpg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
     <wp:meta_value><![CDATA[Golden Gate Bridge]]></wp:meta_value>
@@ -1706,7 +1706,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <link>https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/cep00032/</link>
   <pubDate>Fri, 15 Jul 2011 21:41:24 +0000</pubDate>
   <dc:creator>themedemos</dc:creator>
-  <guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2008/06/cep00032.jpg</guid>
+  <guid isPermaLink="false">http://localhost/wp-test-data/contents/cep00032.jpg</guid>
   <description/>
   <content:encoded><![CDATA[Public domain via https://www.burningwell.org/gallery2/v/Landscapes/ocean/CEP00032.jpg.html]]></content:encoded>
   <excerpt:encoded><![CDATA[Sunburst over the Clinch River, Southwest Virginia.]]></excerpt:encoded>
@@ -1722,7 +1722,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2008/06/cep00032.jpg</wp:attachment_url>
+  <wp:attachment_url>http://localhost/wp-test-data/contents/cep00032.jpg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
     <wp:meta_value><![CDATA[Sunburst Over River]]></wp:meta_value>
@@ -1745,7 +1745,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <link>https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/dcp_2082/</link>
   <pubDate>Fri, 15 Jul 2011 21:41:27 +0000</pubDate>
   <dc:creator>themedemos</dc:creator>
-  <guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2008/06/dcp_2082.jpg</guid>
+  <guid isPermaLink="false">http://localhost/wp-test-data/contents/dcp_2082.jpg</guid>
   <description/>
   <content:encoded><![CDATA[Public domain via https://www.burningwell.org/gallery2/v/Landscapes/ocean/DCP_2082.jpg.html]]></content:encoded>
   <excerpt:encoded><![CDATA[Boardwalk at Westport, WA]]></excerpt:encoded>
@@ -1761,7 +1761,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2008/06/dcp_2082.jpg</wp:attachment_url>
+  <wp:attachment_url>http://localhost/wp-test-data/contents/dcp_2082.jpg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
     <wp:meta_value><![CDATA[Boardwalk]]></wp:meta_value>
@@ -1784,7 +1784,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <link>https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/dsc03149/</link>
   <pubDate>Fri, 15 Jul 2011 21:41:33 +0000</pubDate>
   <dc:creator>themedemos</dc:creator>
-  <guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2008/06/dsc03149.jpg</guid>
+  <guid isPermaLink="false">http://localhost/wp-test-data/contents/dsc03149.jpg</guid>
   <description/>
   <content:encoded><![CDATA[Public domain via https://www.burningwell.org/gallery2/v/Landscapes/ocean/dsc03149.jpg.html]]></content:encoded>
   <excerpt:encoded><![CDATA[Boats and reflections, Royal Perth Yacht Club]]></excerpt:encoded>
@@ -1800,7 +1800,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2008/06/dsc03149.jpg</wp:attachment_url>
+  <wp:attachment_url>http://localhost/wp-test-data/contents/dsc03149.jpg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
     <wp:meta_value><![CDATA[Yachtsody in Blue]]></wp:meta_value>
@@ -1823,7 +1823,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <link>https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/dsc04563/</link>
   <pubDate>Fri, 15 Jul 2011 21:41:37 +0000</pubDate>
   <dc:creator>themedemos</dc:creator>
-  <guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2008/06/dsc04563.jpg</guid>
+  <guid isPermaLink="false">http://localhost/wp-test-data/contents/dsc04563.jpg</guid>
   <description/>
   <content:encoded><![CDATA[Public domain via https://www.burningwell.org/gallery2/v/Landscapes/ocean/dsc04563.jpg.html]]></content:encoded>
   <excerpt:encoded><![CDATA[Raindrop ripples on a pond]]></excerpt:encoded>
@@ -1839,7 +1839,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2008/06/dsc04563.jpg</wp:attachment_url>
+  <wp:attachment_url>http://localhost/wp-test-data/contents/dsc04563.jpg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
     <wp:meta_value><![CDATA[Rain Ripples]]></wp:meta_value>
@@ -1862,7 +1862,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <link>https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/dsc09114/</link>
   <pubDate>Fri, 15 Jul 2011 21:41:41 +0000</pubDate>
   <dc:creator>themedemos</dc:creator>
-  <guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2008/06/dsc09114.jpg</guid>
+  <guid isPermaLink="false">http://localhost/wp-test-data/contents/dsc09114.jpg</guid>
   <description/>
   <content:encoded><![CDATA[Public domain via https://www.burningwell.org/gallery2/v/Objects/dsc09114.jpg.html]]></content:encoded>
   <excerpt:encoded><![CDATA[Sydney Harbor Bridge]]></excerpt:encoded>
@@ -1878,7 +1878,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2008/06/dsc09114.jpg</wp:attachment_url>
+  <wp:attachment_url>http://localhost/wp-test-data/contents/dsc09114.jpg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
     <wp:meta_value><![CDATA[Sydney Harbor Bridge]]></wp:meta_value>
@@ -1901,7 +1901,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <link>https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/dsc20050102_192118_51/</link>
   <pubDate>Fri, 15 Jul 2011 21:41:42 +0000</pubDate>
   <dc:creator>themedemos</dc:creator>
-  <guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2008/06/dsc20050102_192118_51.jpg</guid>
+  <guid isPermaLink="false">http://localhost/wp-test-data/contents/dsc20050102_192118_51.jpg</guid>
   <description/>
   <content:encoded><![CDATA[Public domain via https://www.burningwell.org/gallery2/v/Landscapes/ocean/dsc20050102_192118_51.jpg.html]]></content:encoded>
   <excerpt:encoded><![CDATA[Albany wind-farm against the sunset, Western Australia]]></excerpt:encoded>
@@ -1917,7 +1917,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2008/06/dsc20050102_192118_51.jpg</wp:attachment_url>
+  <wp:attachment_url>http://localhost/wp-test-data/contents/dsc20050102_192118_51.jpg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
     <wp:meta_value><![CDATA[Wind Farm]]></wp:meta_value>
@@ -1940,7 +1940,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <link>https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/dsc20051220_160808_102/</link>
   <pubDate>Fri, 15 Jul 2011 21:41:45 +0000</pubDate>
   <dc:creator>themedemos</dc:creator>
-  <guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2008/06/dsc20051220_160808_102.jpg</guid>
+  <guid isPermaLink="false">http://localhost/wp-test-data/contents/dsc20051220_160808_102.jpg</guid>
   <description/>
   <content:encoded><![CDATA[Public domain via https://www.burningwell.org/gallery2/v/Objects/dsc20051220_160808_102.jpg.html]]></content:encoded>
   <excerpt:encoded><![CDATA[Antique farm machinery, Mount Barker Museum, Western Australia]]></excerpt:encoded>
@@ -1956,7 +1956,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2008/06/dsc20051220_160808_102.jpg</wp:attachment_url>
+  <wp:attachment_url>http://localhost/wp-test-data/contents/dsc20051220_160808_102.jpg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
     <wp:meta_value><![CDATA[Antique Farm Machinery]]></wp:meta_value>
@@ -1979,7 +1979,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <link>https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/dsc02085/</link>
   <pubDate>Fri, 15 Jul 2011 21:46:27 +0000</pubDate>
   <dc:creator>themedemos</dc:creator>
-  <guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2008/06/dsc02085.jpg</guid>
+  <guid isPermaLink="false">http://localhost/wp-test-data/contents/dsc02085.jpg</guid>
   <description/>
   <content:encoded><![CDATA[Public domain via https://www.burningwell.org/gallery2/main.php?g2_view=dynamicalbum.UpdatesAlbum&amp;g2_itemId=25895]]></content:encoded>
   <excerpt:encoded><![CDATA[Orange Iris]]></excerpt:encoded>
@@ -1995,7 +1995,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2008/06/dsc02085.jpg</wp:attachment_url>
+  <wp:attachment_url>http://localhost/wp-test-data/contents/dsc02085.jpg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
     <wp:meta_value><![CDATA[Orange Iris]]></wp:meta_value>
@@ -2018,7 +2018,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <link>https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/dsc20051220_173257_119/</link>
   <pubDate>Fri, 15 Jul 2011 21:47:17 +0000</pubDate>
   <dc:creator>themedemos</dc:creator>
-  <guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2008/06/dsc20051220_173257_119.jpg</guid>
+  <guid isPermaLink="false">http://localhost/wp-test-data/contents/dsc20051220_173257_119.jpg</guid>
   <description/>
   <content:encoded><![CDATA[Public domain via https://www.burningwell.org/gallery2/v/Objects/dsc20051220_173257_119.jpg.html]]></content:encoded>
   <excerpt:encoded><![CDATA[Rusty rails with fishplate, Kojonup]]></excerpt:encoded>
@@ -2034,7 +2034,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2008/06/dsc20051220_173257_119.jpg</wp:attachment_url>
+  <wp:attachment_url>http://localhost/wp-test-data/contents/dsc20051220_173257_119.jpg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
     <wp:meta_value><![CDATA[Rusty Rail]]></wp:meta_value>
@@ -2057,7 +2057,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <link>https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/dscn3316/</link>
   <pubDate>Fri, 15 Jul 2011 21:47:20 +0000</pubDate>
   <dc:creator>themedemos</dc:creator>
-  <guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2008/06/dscn3316.jpg</guid>
+  <guid isPermaLink="false">http://localhost/wp-test-data/contents/dscn3316.jpg</guid>
   <description/>
   <content:encoded><![CDATA[Public domain via https://www.burningwell.org/gallery2/v/Landscapes/ocean/dscn3316.jpg.html]]></content:encoded>
   <excerpt:encoded><![CDATA[Sea and rocks, Plimmerton, New Zealand]]></excerpt:encoded>
@@ -2073,7 +2073,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2008/06/dscn3316.jpg</wp:attachment_url>
+  <wp:attachment_url>http://localhost/wp-test-data/contents/dscn3316.jpg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
     <wp:meta_value><![CDATA[Sea and Rocks]]></wp:meta_value>
@@ -2096,7 +2096,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <link>https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/michelle_049/</link>
   <pubDate>Fri, 15 Jul 2011 21:47:23 +0000</pubDate>
   <dc:creator>themedemos</dc:creator>
-  <guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2008/06/michelle_049.jpg</guid>
+  <guid isPermaLink="false">http://localhost/wp-test-data/contents/michelle_049.jpg</guid>
   <description/>
   <content:encoded><![CDATA[Public domain via https://www.burningwell.org/gallery2/v/Landscapes/ocean/michelle_049.jpg.html]]></content:encoded>
   <excerpt:encoded><![CDATA[Beach at Big Sur, CA]]></excerpt:encoded>
@@ -2112,7 +2112,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2008/06/michelle_049.jpg</wp:attachment_url>
+  <wp:attachment_url>http://localhost/wp-test-data/contents/michelle_049.jpg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
     <wp:meta_value><![CDATA[Big Sur]]></wp:meta_value>
@@ -2135,7 +2135,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <link>https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/dcf-1-0/</link>
   <pubDate>Fri, 15 Jul 2011 21:47:26 +0000</pubDate>
   <dc:creator>themedemos</dc:creator>
-  <guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2008/06/windmill.jpg</guid>
+  <guid isPermaLink="false">http://localhost/wp-test-data/contents/windmill.jpg</guid>
   <description/>
   <content:encoded><![CDATA[Public domain via https://www.burningwell.org/gallery2/v/Objects/Windmill.jpg.html]]></content:encoded>
   <excerpt:encoded><![CDATA[Windmill shrouded in fog at a farm outside of Walker, Iowa]]></excerpt:encoded>
@@ -2151,7 +2151,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2008/06/windmill.jpg</wp:attachment_url>
+  <wp:attachment_url>http://localhost/wp-test-data/contents/windmill.jpg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
     <wp:meta_value><![CDATA[Windmill]]></wp:meta_value>
@@ -2174,7 +2174,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <link>https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/alas-i-have-found-my-shangri-la/</link>
   <pubDate>Fri, 15 Jul 2011 21:49:48 +0000</pubDate>
   <dc:creator>themedemos</dc:creator>
-  <guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2008/06/img_0513-1.jpg</guid>
+  <guid isPermaLink="false">http://localhost/wp-test-data/contents/img_0513-1.jpg</guid>
   <description/>
   <content:encoded><![CDATA[Public domain via https://www.burningwell.org/gallery2/v/Landscapes/ocean/IMG_0513-1.JPG.html]]></content:encoded>
   <excerpt:encoded><![CDATA[Sunrise over the coast in Huatulco, Oaxaca, Mexico]]></excerpt:encoded>
@@ -2190,7 +2190,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2008/06/img_0513-1.jpg</wp:attachment_url>
+  <wp:attachment_url>http://localhost/wp-test-data/contents/img_0513-1.jpg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
     <wp:meta_value><![CDATA[Huatulco Coastline]]></wp:meta_value>
@@ -2213,7 +2213,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <link>https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/img_0747/</link>
   <pubDate>Fri, 15 Jul 2011 21:50:37 +0000</pubDate>
   <dc:creator>themedemos</dc:creator>
-  <guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2008/06/img_0747.jpg</guid>
+  <guid isPermaLink="false">http://localhost/wp-test-data/contents/img_0747.jpg</guid>
   <description/>
   <content:encoded><![CDATA[Public domain via https://www.burningwell.org/gallery2/main.php?g2_view=dynamicalbum.UpdatesAlbum&amp;g2_itemId=25770]]></content:encoded>
   <excerpt:encoded><![CDATA[Jericoacoara Ceara Brasil]]></excerpt:encoded>
@@ -2229,7 +2229,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2008/06/img_0747.jpg</wp:attachment_url>
+  <wp:attachment_url>http://localhost/wp-test-data/contents/img_0747.jpg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
     <wp:meta_value><![CDATA[Brazil Beach]]></wp:meta_value>
@@ -2252,7 +2252,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <link>https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/img_0767/</link>
   <pubDate>Fri, 15 Jul 2011 21:51:19 +0000</pubDate>
   <dc:creator>themedemos</dc:creator>
-  <guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2008/06/img_0767.jpg</guid>
+  <guid isPermaLink="false">http://localhost/wp-test-data/contents/img_0767.jpg</guid>
   <description/>
   <content:encoded><![CDATA[Public domain via https://www.burningwell.org/gallery2/v/Landscapes/ocean/IMG_0767.JPG.html]]></content:encoded>
   <excerpt:encoded><![CDATA[Coastline in Huatulco, Oaxaca, Mexico]]></excerpt:encoded>
@@ -2268,7 +2268,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2008/06/img_0767.jpg</wp:attachment_url>
+  <wp:attachment_url>http://localhost/wp-test-data/contents/img_0767.jpg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
     <wp:meta_value><![CDATA[Huatulco Coastline]]></wp:meta_value>
@@ -2291,7 +2291,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <link>https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/img_8399/</link>
   <pubDate>Fri, 15 Jul 2011 21:51:57 +0000</pubDate>
   <dc:creator>themedemos</dc:creator>
-  <guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2008/06/img_8399.jpg</guid>
+  <guid isPermaLink="false">http://localhost/wp-test-data/contents/img_8399.jpg</guid>
   <description/>
   <content:encoded><![CDATA[Public domain via https://www.burningwell.org/gallery2/main.php?g2_view=dynamicalbum.UpdatesAlbum&amp;g2_itemId=25774]]></content:encoded>
   <excerpt:encoded><![CDATA[Boat BW PB Barco Texture Beautiful Fishing]]></excerpt:encoded>
@@ -2307,7 +2307,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2008/06/img_8399.jpg</wp:attachment_url>
+  <wp:attachment_url>http://localhost/wp-test-data/contents/img_8399.jpg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
     <wp:meta_value><![CDATA[Boat Barco Texture]]></wp:meta_value>
@@ -2330,7 +2330,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <link>https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/dsc20040724_152504_532-2/</link>
   <pubDate>Mon, 04 Jun 2012 18:36:56 +0000</pubDate>
   <dc:creator>themedemos</dc:creator>
-  <guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2012/06/dsc20040724_152504_532.jpg</guid>
+  <guid isPermaLink="false">http://localhost/wp-test-data/contents/dsc20040724_152504_532.jpg</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2346,7 +2346,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2012/06/dsc20040724_152504_532.jpg</wp:attachment_url>
+  <wp:attachment_url>http://localhost/wp-test-data/contents/dsc20040724_152504_532.jpg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_attachment_original_parent_id</wp:meta_key>
     <wp:meta_value><![CDATA[555]]></wp:meta_value>
@@ -2361,7 +2361,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <link>https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/dsc20050604_133440_3421/</link>
   <pubDate>Mon, 04 Jun 2012 18:58:15 +0000</pubDate>
   <dc:creator>themedemos</dc:creator>
-  <guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2008/06/dsc20050604_133440_34211.jpg</guid>
+  <guid isPermaLink="false">http://localhost/wp-test-data/contents/dsc20050604_133440_34211.jpg</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2377,7 +2377,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2008/06/dsc20050604_133440_34211.jpg</wp:attachment_url>
+  <wp:attachment_url>http://localhost/wp-test-data/contents/dsc20050604_133440_34211.jpg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_attachment_original_parent_id</wp:meta_key>
     <wp:meta_value><![CDATA[555]]></wp:meta_value>
@@ -2392,7 +2392,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <link>https://wpthemetestdata.wordpress.com/2010/07/02/post-format-audio/originaldixielandjazzbandwithalbernard-stlouisblues/</link>
   <pubDate>Thu, 05 Jul 2012 16:49:29 +0000</pubDate>
   <dc:creator>themedemos</dc:creator>
-  <guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2008/06/originaldixielandjazzbandwithalbernard-stlouisblues.mp3</guid>
+  <guid isPermaLink="false">http://localhost/wp-test-data/contents/originaldixielandjazzbandwithalbernard-stlouisblues.mp3</guid>
   <description/>
   <content:encoded><![CDATA[St. Louis Blues, by Original Dixieland Jazz Band with Al Bernard (public domain)]]></content:encoded>
   <excerpt:encoded><![CDATA[St. Louis Blues, by Original Dixieland Jazz Band with Al Bernard (public domain)]]></excerpt:encoded>
@@ -2408,14 +2408,14 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2008/06/originaldixielandjazzbandwithalbernard-stlouisblues.mp3</wp:attachment_url>
+  <wp:attachment_url>http://localhost/wp-test-data/contents/originaldixielandjazzbandwithalbernard-stlouisblues.mp3</wp:attachment_url>
 </item>
 <item>
   <title>OLYMPUS DIGITAL CAMERA</title>
   <link>https://wpthemetestdata.wordpress.com/about/clearing-floats/olympus-digital-camera/</link>
   <pubDate>Thu, 05 Jul 2012 18:07:34 +0000</pubDate>
   <dc:creator>themedemos</dc:creator>
-  <guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2010/08/manhattansummer.jpg</guid>
+  <guid isPermaLink="false">http://localhost/wp-test-data/contents/manhattansummer.jpg</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2431,7 +2431,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2010/08/manhattansummer.jpg</wp:attachment_url>
+  <wp:attachment_url>http://localhost/wp-test-data/contents/manhattansummer.jpg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>_original_import_url</wp:meta_key>
     <wp:meta_value><![CDATA[http://wptest.io/demo/wp-content/uploads/2012/07/manhattansummer.jpg]]></wp:meta_value>
@@ -2442,7 +2442,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <link>https://wpthemetestdata.wordpress.com/2013/01/10/markup-image-alignment/image-alignment-580x300/</link>
   <pubDate>Fri, 15 Mar 2013 00:44:50 +0000</pubDate>
   <dc:creator>themedemos</dc:creator>
-  <guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2013/03/image-alignment-580x300.jpg</guid>
+  <guid isPermaLink="false">http://localhost/wp-test-data/contents/image-alignment-580x300.jpg</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2458,7 +2458,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2013/03/image-alignment-580x300.jpg</wp:attachment_url>
+  <wp:attachment_url>http://localhost/wp-test-data/contents/image-alignment-580x300.jpg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>pre_import_post_parent</wp:meta_key>
     <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -2485,7 +2485,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <link>https://wpthemetestdata.wordpress.com/2013/01/10/markup-image-alignment/image-alignment-150x150/</link>
   <pubDate>Fri, 15 Mar 2013 00:44:49 +0000</pubDate>
   <dc:creator>themedemos</dc:creator>
-  <guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2013/03/image-alignment-150x150.jpg</guid>
+  <guid isPermaLink="false">http://localhost/wp-test-data/contents/image-alignment-150x150.jpg</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2501,7 +2501,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2013/03/image-alignment-150x150.jpg</wp:attachment_url>
+  <wp:attachment_url>http://localhost/wp-test-data/contents/image-alignment-150x150.jpg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>pre_import_post_parent</wp:meta_key>
     <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -2528,7 +2528,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <link>https://wpthemetestdata.wordpress.com/2012/03/15/template-featured-image-horizontal/featured-image-horizontal-2/</link>
   <pubDate>Fri, 15 Mar 2013 20:40:38 +0000</pubDate>
   <dc:creator>themedemos</dc:creator>
-  <guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2013/03/featured-image-horizontal.jpg</guid>
+  <guid isPermaLink="false">http://localhost/wp-test-data/contents/featured-image-horizontal.jpg</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2544,7 +2544,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2013/03/featured-image-horizontal.jpg</wp:attachment_url>
+  <wp:attachment_url>http://localhost/wp-test-data/contents/featured-image-horizontal.jpg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>pre_import_post_parent</wp:meta_key>
     <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -2571,7 +2571,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <link>https://wpthemetestdata.wordpress.com/2013/01/10/markup-image-alignment/soworthloving-wallpaper/</link>
   <pubDate>Thu, 14 Mar 2013 14:58:24 +0000</pubDate>
   <dc:creator>themedemos</dc:creator>
-  <guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2013/03/soworthloving-wallpaper.jpg</guid>
+  <guid isPermaLink="false">http://localhost/wp-test-data/contents/soworthloving-wallpaper.jpg</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2587,7 +2587,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2013/03/soworthloving-wallpaper.jpg</wp:attachment_url>
+  <wp:attachment_url>http://localhost/wp-test-data/contents/soworthloving-wallpaper.jpg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>pre_import_post_parent</wp:meta_key>
     <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -2610,7 +2610,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <link>https://wpthemetestdata.wordpress.com/2013/01/10/markup-image-alignment/image-alignment-300x200/</link>
   <pubDate>Fri, 15 Mar 2013 00:44:49 +0000</pubDate>
   <dc:creator>themedemos</dc:creator>
-  <guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2013/03/image-alignment-300x200.jpg</guid>
+  <guid isPermaLink="false">http://localhost/wp-test-data/contents/image-alignment-300x200.jpg</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2626,7 +2626,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2013/03/image-alignment-300x200.jpg</wp:attachment_url>
+  <wp:attachment_url>http://localhost/wp-test-data/contents/image-alignment-300x200.jpg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>pre_import_post_parent</wp:meta_key>
     <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -2653,7 +2653,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <link>https://wpthemetestdata.wordpress.com/2012/03/15/template-featured-image-vertical/featured-image-vertical-2/</link>
   <pubDate>Fri, 15 Mar 2013 20:41:09 +0000</pubDate>
   <dc:creator>themedemos</dc:creator>
-  <guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2013/03/featured-image-vertical.jpg</guid>
+  <guid isPermaLink="false">http://localhost/wp-test-data/contents/featured-image-vertical.jpg</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2669,7 +2669,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2013/03/featured-image-vertical.jpg</wp:attachment_url>
+  <wp:attachment_url>http://localhost/wp-test-data/contents/featured-image-vertical.jpg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>pre_import_post_parent</wp:meta_key>
     <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -2696,7 +2696,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <link>https://wpthemetestdata.wordpress.com/2013/01/10/markup-image-alignment/image-alignment-1200x4002/</link>
   <pubDate>Fri, 15 Mar 2013 00:44:50 +0000</pubDate>
   <dc:creator>themedemos</dc:creator>
-  <guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2013/03/image-alignment-1200x4002.jpg</guid>
+  <guid isPermaLink="false">http://localhost/wp-test-data/contents/image-alignment-1200x4002.jpg</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2712,7 +2712,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2013/03/image-alignment-1200x4002.jpg</wp:attachment_url>
+  <wp:attachment_url>http://localhost/wp-test-data/contents/image-alignment-1200x4002.jpg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>pre_import_post_parent</wp:meta_key>
     <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -2739,7 +2739,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <link>https://wpthemetestdata.wordpress.com/2010/08/08/post-format-image/unicorn-wallpaper/</link>
   <pubDate>Fri, 15 Mar 2013 03:10:39 +0000</pubDate>
   <dc:creator>themedemos</dc:creator>
-  <guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2012/12/unicorn-wallpaper.jpg</guid>
+  <guid isPermaLink="false">http://localhost/wp-test-data/contents/unicorn-wallpaper.jpg</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2755,7 +2755,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2012/12/unicorn-wallpaper.jpg</wp:attachment_url>
+  <wp:attachment_url>http://localhost/wp-test-data/contents/unicorn-wallpaper.jpg</wp:attachment_url>
   <wp:postmeta>
     <wp:meta_key>pre_import_post_parent</wp:meta_key>
     <wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -4257,7 +4257,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <link>https://wpthemetestdata.wordpress.com/2010/08/07/post-format-image-caption/triforce-wallpaper/</link>
   <pubDate>Tue, 09 Apr 2013 20:17:31 +0000</pubDate>
   <dc:creator>chipbennett</dc:creator>
-  <guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2010/08/triforce-wallpaper.jpg</guid>
+  <guid isPermaLink="false">http://localhost/wp-test-data/contents/triforce-wallpaper.jpg</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
   <excerpt:encoded><![CDATA[It’s dangerous to go alone! Take this.]]></excerpt:encoded>
@@ -4273,7 +4273,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2010/08/triforce-wallpaper.jpg</wp:attachment_url>
+  <wp:attachment_url>http://localhost/wp-test-data/contents/triforce-wallpaper.jpg</wp:attachment_url>
 </item>
 <item>
   <title>Home</title>
@@ -5814,7 +5814,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <link>https://wpthemetestdata.wordpress.com/?attachment_id=1686</link>
   <pubDate>Wed, 18 Sep 2013 21:37:05 +0000</pubDate>
   <dc:creator>emiluzelac</dc:creator>
-  <guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2013/09/dsc20040724_152504_532.jpg</guid>
+  <guid isPermaLink="false">http://localhost/wp-test-data/contents/dsc20040724_152504_532.jpg</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5830,14 +5830,14 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2013/09/dsc20040724_152504_532.jpg</wp:attachment_url>
+  <wp:attachment_url>http://localhost/wp-test-data/contents/dsc20040724_152504_532.jpg</wp:attachment_url>
 </item>
 <item>
   <title>dsc20050604_133440_34211</title>
   <link>https://wpthemetestdata.wordpress.com/?attachment_id=1687</link>
   <pubDate>Wed, 18 Sep 2013 21:37:07 +0000</pubDate>
   <dc:creator>emiluzelac</dc:creator>
-  <guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2013/09/dsc20050604_133440_34211.jpg</guid>
+  <guid isPermaLink="false">http://localhost/wp-test-data/contents/dsc20050604_133440_34211.jpg</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5853,14 +5853,14 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2013/09/dsc20050604_133440_34211.jpg</wp:attachment_url>
+  <wp:attachment_url>http://localhost/wp-test-data/contents/dsc20050604_133440_34211.jpg</wp:attachment_url>
 </item>
 <item>
   <title>2014-slider-mobile-behavior</title>
   <link>https://wpthemetestdata.wordpress.com/?attachment_id=1690</link>
   <pubDate>Wed, 04 Dec 2013 18:08:29 +0000</pubDate>
   <dc:creator>lance</dc:creator>
-  <guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2013/12/2014-slider-mobile-behavior.mov</guid>
+  <guid isPermaLink="false">http://localhost/wp-test-data/contents/2014-slider-mobile-behavior.mov</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5876,14 +5876,14 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2013/12/2014-slider-mobile-behavior.mov</wp:attachment_url>
+  <wp:attachment_url>http://localhost/wp-test-data/contents/2014-slider-mobile-behavior.mov</wp:attachment_url>
 </item>
 <item>
   <title>dsc20050315_145007_132</title>
   <link>https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/dsc20050315_145007_132-2/</link>
   <pubDate>Sun, 05 Jan 2014 18:45:21 +0000</pubDate>
   <dc:creator>emiluzelac</dc:creator>
-  <guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2014/01/dsc20050315_145007_132.jpg</guid>
+  <guid isPermaLink="false">http://localhost/wp-test-data/contents/dsc20050315_145007_132.jpg</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5899,14 +5899,14 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2014/01/dsc20050315_145007_132.jpg</wp:attachment_url>
+  <wp:attachment_url>http://localhost/wp-test-data/contents/dsc20050315_145007_132.jpg</wp:attachment_url>
 </item>
 <item>
   <title>spectacles</title>
   <link>https://wpthemetestdata.wordpress.com/about/clearing-floats/spectacles-2/</link>
   <pubDate>Sun, 05 Jan 2014 18:45:36 +0000</pubDate>
   <dc:creator>emiluzelac</dc:creator>
-  <guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2014/01/spectacles.gif</guid>
+  <guid isPermaLink="false">http://localhost/wp-test-data/contents/spectacles.gif</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5922,7 +5922,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2014/01/spectacles.gif</wp:attachment_url>
+  <wp:attachment_url>http://localhost/wp-test-data/contents/spectacles.gif</wp:attachment_url>
 </item>
 <item>
   <title>Post Format: Standard</title>
